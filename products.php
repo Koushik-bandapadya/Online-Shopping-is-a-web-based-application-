@@ -367,7 +367,7 @@
                <div class="container">
                 <center>
                    <p>Copyright &copy Fake Store. All Rights Reserved.</p>
-                   <p>This website is developed by Md. Shamim Ashraf Singdho</p>
+                   <p>This website is developed by Koushik Bandapadya</p>
                </center>
                </div>
            </footer>
